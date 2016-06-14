@@ -1,0 +1,11 @@
+<module>
+    <!-- Inherit the core Web Toolkit stuff.                  -->
+    <inherits name="com.google.gwt.user.User"/>
+
+    <!-- Specify the module entry point class.                   -->
+    <entry-point class="g3wt.client.Application"/>
+    <source path='client'/>
+    <source path='g3wt.shared'/>
+
+
+</module>
